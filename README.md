@@ -3,6 +3,4 @@
 ### Using with LibGDX & Java Eclipse
 
 # Picture
-
-![alt text][logo]
-[logo]: core/assets/mapIntro.png
+![alt text](core/assets/mapIntro.png)
